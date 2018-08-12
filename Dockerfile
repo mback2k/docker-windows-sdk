@@ -1,6 +1,6 @@
 # escape=`
 
-ARG BASE_TAG=1709
+ARG BASE_TAG=1803
 
 FROM microsoft/windowsservercore:${BASE_TAG}
 
