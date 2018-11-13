@@ -2,7 +2,7 @@
 
 ARG BASE_TAG=1803
 
-FROM microsoft/windowsservercore:${BASE_TAG}
+FROM mback2k/windows-base:${BASE_TAG}
 
 SHELL ["powershell", "-command"]
 
